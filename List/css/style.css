@@ -1,0 +1,24 @@
+.main{
+  background-color: #ccc;
+}
+body{
+  background-color: #fff;
+}
+.jumbotron{
+  border-radius: 0px;
+}
+.fix{
+  height: 300px;
+  overflow: auto;
+}
+.hint{
+  visibility:hidden;
+  position: absolute;
+  background-color: #eee;
+  top:40px;
+  left: 135px;
+  width: 18%;
+  text-align:left;
+  padding-left: 1em;
+  padding-top: 3px;
+}
